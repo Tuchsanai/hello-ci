@@ -6,9 +6,9 @@ export const products = [
     category: 'dry',
     desc: 'โปรตีนจากแซลมอนแท้ โอเมก้า 3 บำรุงขนนุ่มเงา',
     size: '1.5 กก.',
-    price: 459,
+    price: 399,
     rating: 4.9,
-    badge: 'ขายดี',
+    badge: 'ลดราคา',
     image: '/images/p_salmon.jpg',
   },
   {
